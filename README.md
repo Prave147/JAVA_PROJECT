@@ -15,8 +15,3 @@ The aim of this project is to design and develop a **House Renting System** usin
 - Search Houses by Location or Price
 - Book and Manage Rentals
 - Secure Data Storage using MySQL
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/house-renting-system.git
